@@ -1,0 +1,5 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","C1","1","100nF","Capacitor_SMD:C_1206_3216Metric",""
+"2","J1","1","Conn_01x04_Socket","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",""
+"3","R1, R2","2","10k","Resistor_SMD:R_1206_3216Metric",""
+"4","U1","1","SHT4x","Sensor_Humidity:Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad",""
