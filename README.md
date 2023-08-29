@@ -4,4 +4,9 @@ The aim of this project is to build an accurate air temperature and humidity sen
 ## The PCB board
 ![SHT45 board](sensor_board.png)
 
+## Bill of materials
+- 2 10kOhm 1206 resistors
+- 1 100nF 1206 capacitor
+- 1 SHT45 sensirion sensor
+
 
