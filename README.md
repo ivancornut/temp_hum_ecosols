@@ -24,6 +24,10 @@ This piece should ideally be printed with UV resistant white PETG. We use the Na
 The material costs per shield are estimated at around 3€ if we consider that a 500g spool of this filament costs around 40€. 
 
 ## Final result
+
+### Shield
+![shield](shield.jpg)
+
 ### Front of the reflowed board
 ![Front of the board](PCB_front.jpg)
 
